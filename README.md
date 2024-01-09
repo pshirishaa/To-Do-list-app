@@ -30,6 +30,6 @@ The application initializes by displaying existing tasks stored in local storage
 8. Limitations:
 
 The example lacks comprehensive validation and error handling for simplicity, and it does not include features like task editing or deletion.
-9. Future Enhancements:
 
-Additional features and improvements, such as task status updates, task editing, and deletion, could be implemented for a more robust task management system.
+
+    9. Future Enhancements: Additional features and improvements, such as task status updates, task editing, and deletion, could be implemented for a more robust task management system.
