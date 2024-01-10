@@ -38,4 +38,14 @@ The application initializes by displaying existing tasks stored in local storage
 The example lacks comprehensive validation and error handling for simplicity, and it does not include features like task editing or deletion.
 
 
+
+
+
+Instructions to Set Up and Run:
+Save the HTML code in a file named task3.html.
+Save the CSS code in a file named styles.css.
+Save the JavaScript code in a file named app.js.
+Open index.html in a web browser.
+
+
     
