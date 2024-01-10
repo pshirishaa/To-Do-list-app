@@ -76,7 +76,6 @@ The example lacks comprehensive validation and error handling for simplicity, an
 
 
 
-WE CAN ADD AS MANY TASKS AS WE WANT
 
 
 
@@ -86,6 +85,20 @@ WE CAN ADD AS MANY TASKS AS WE WANT
 
 
 ![Screenshot 2024-01-10 124252](https://github.com/pshirishaa/To-Do-list-app/assets/115444119/e7298204-8a5b-4288-a674-d22dfaf4ad9e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+WE CAN ADD AS MANY TASKS AS WE WANT
 
 
 
