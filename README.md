@@ -98,6 +98,58 @@ The example lacks comprehensive validation and error handling for simplicity, an
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![rr](https://github.com/pshirishaa/To-Do-list-app/assets/115444119/9f113485-1ab9-47bf-9781-8d8fb405ea4a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 WE CAN ADD AS MANY TASKS AS WE WANT
 
 
