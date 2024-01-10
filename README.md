@@ -1,4 +1,5 @@
 # To-Do-list-app
+DESCRIPTION
 
 The provided To-Do List application is a simple yet functional task management tool designed for effective task organization. Here's a brief description of its key features and components:
 
