@@ -54,4 +54,11 @@ The example lacks comprehensive validation and error handling for simplicity, an
 3.Open index.html in a web browser.
 
 
+
+
+
+
+![OUTPUT](https://github.com/pshirishaa/To-Do-list-app/assets/115444119/c6a1d7a3-34ce-4d9a-b16f-fbc493870ebd)
+
+
     
