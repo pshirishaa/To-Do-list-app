@@ -42,8 +42,7 @@ The example lacks comprehensive validation and error handling for simplicity, an
 
 
 
-=> Instructions to Set Up and Run:
-
+=>INSTRUCTIONS TO SET UP AND RUN: 
 
 
 1.Save the HTML code in a file named task3.html.
