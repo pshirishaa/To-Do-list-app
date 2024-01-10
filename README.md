@@ -68,8 +68,7 @@ The example lacks comprehensive validation and error handling for simplicity, an
 
 
 
-![Screenshot 2024-01-10 124234](https://github.com/pshirishaa/To-Do-list-app/assets/115444119/6a4e6973-6b44-
-4a20-8281-c0f63c75b678)
+![Screenshot 2024-01-10 124234](https://github.com/pshirishaa/To-Do-list-app/assets/115444119/6a4e6973-6b44-4a20-8281-c0f63c75b678)
 
 
 
