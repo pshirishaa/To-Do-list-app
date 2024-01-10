@@ -42,9 +42,15 @@ The example lacks comprehensive validation and error handling for simplicity, an
 
 
 Instructions to Set Up and Run:
+
+
+
 Save the HTML code in a file named task3.html.
+
 Save the CSS code in a file named styles.css.
+
 Save the JavaScript code in a file named app.js.
+
 Open index.html in a web browser.
 
 
